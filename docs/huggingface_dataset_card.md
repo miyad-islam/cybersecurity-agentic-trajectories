@@ -22,7 +22,7 @@ size_categories:
 A curated dataset of high-fidelity, multi-turn tool-calling trajectories for training and evaluating autonomous Cybersecurity & Security Operations Center (SOC) agents. Generated with **Qwen 2.5 72B Instruct (Native BF16)** and validated against strict Draft-7 JSON Schemas and RFC-5737 IP sanitization rules.
 
 ## 🚀 Commercial Full Release (10,000 Trajectories)
-* **Full 10,000-Row Dataset Available**: Perpetual commercial training license available on [Gumroad](https://gumroad.com) ($9.99 Launch Special).
+* **Full 10,000-Row Dataset Available**: Perpetual commercial training license available on [Gumroad](https://miyadislam.gumroad.com/l/cybersecurity-soc-trajectories) ($9.99 Launch Special).
 * Includes both **OpenAI JSONL** and **LLaMA-Factory ShareGPT** formats, full tool definitions, and unredacted training benchmarks.
 
 ---
@@ -86,4 +86,4 @@ Unlike naive single-turn question-answering datasets, **25% of all trajectories 
 ## 📄 License & Terms
 
 * **Free Hugging Face Sample (2,000 rows)**: Licensed under **CC-BY-NC 4.0** (Non-Commercial Research Use).
-* **Commercial 10,000-Row Release**: Available on [Gumroad](https://gumroad.com) with a perpetual, royalty-free commercial training license for fine-tuning private and proprietary models.
+* **Commercial 10,000-Row Release**: Available on [Gumroad](https://miyadislam.gumroad.com/l/cybersecurity-soc-trajectories) with a perpetual, royalty-free commercial training license for fine-tuning private and proprietary models.
