@@ -1,0 +1,15 @@
+# Proprietary generation engine & cloud deployment scripts (kept private)
+pipeline/generators/
+deploy/
+output/
+dist/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+.DS_Store
