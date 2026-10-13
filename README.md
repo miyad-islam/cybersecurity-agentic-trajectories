@@ -3,7 +3,7 @@
 [![Validation](https://img.shields.io/badge/JSON_Schema-Draft--07_Valid-brightgreen.svg)](pipeline/schemas/tools.json)
 [![Sanitization](https://img.shields.io/badge/IP_Sanitization-RFC--5737_Compliant-blue.svg)](pipeline/validators/syntax_checker.py)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-2%2C000_Sample-yellow)](https://huggingface.co/datasets/miyad316/cybersecurity-soc-agentic-trajectories)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Commercial_10k_Package-red)](https://gumroad.com)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Commercial_10k_Package-red)](https://miyadislam.gumroad.com/l/cybersecurity-soc-trajectories)
 
 A production-grade dataset and verification pipeline for training autonomous Cybersecurity & SOC (Security Operations Center) agents in multi-turn tool calling, telemetry investigation, and incident containment.
 
@@ -37,7 +37,7 @@ A production-grade dataset and verification pipeline for training autonomous Cyb
 
 ## 🚀 Commercial Release (10,000 Trajectories)
 
-The full 10,000-trajectory commercial dataset is available for purchase on **[Gumroad](https://gumroad.com)** ($9.99 Launch Special) with a perpetual, royalty-free commercial training license.
+The full 10,000-trajectory commercial dataset is available for purchase on **[Gumroad](https://miyadislam.gumroad.com/l/cybersecurity-soc-trajectories)** ($9.99 Launch Special) with a perpetual, royalty-free commercial training license.
 
 ### Package Includes:
 1. `cybersecurity_trajectories_openai.jsonl` (10,000 production trajectories in native OpenAI format)
